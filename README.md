@@ -1,2 +1,2 @@
-# Leet Code Solutions in Python and solidity.
+# Leet Code Solutions in Python and Rust.
 Just me messing around and learning
